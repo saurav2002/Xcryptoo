@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Xcryptoo/static/css/main.68e6d8e1.css",
-    "main.js": "/Xcryptoo/static/js/main.0eb48c23.js",
+    "main.js": "/Xcryptoo/static/js/main.72c71ca6.js",
     "static/media/btc.png": "/Xcryptoo/static/media/btc.04101b0b163c035fa57e.png",
     "static/media/no.png": "/Xcryptoo/static/media/no.2ae91a1431edc460972a.png",
     "index.html": "/Xcryptoo/index.html",
     "main.68e6d8e1.css.map": "/Xcryptoo/static/css/main.68e6d8e1.css.map",
-    "main.0eb48c23.js.map": "/Xcryptoo/static/js/main.0eb48c23.js.map"
+    "main.72c71ca6.js.map": "/Xcryptoo/static/js/main.72c71ca6.js.map"
   },
   "entrypoints": [
     "static/css/main.68e6d8e1.css",
-    "static/js/main.0eb48c23.js"
+    "static/js/main.72c71ca6.js"
   ]
 }
