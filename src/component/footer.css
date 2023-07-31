@@ -1,0 +1,8 @@
+.inp {
+  width: 80%;
+  background: none;
+  border-bottom: 2px solid white;
+}
+.inp:focus {
+  outline: none;
+}

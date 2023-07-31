@@ -1,0 +1,18 @@
+.filter {
+  filter: grayscale(100%);
+}
+.always {
+  animation: saurav 4s infinite;
+  position: relative;
+}
+@keyframes saurav {
+  0% {
+    top: 0px;
+  }
+  50% {
+    top: 12px;
+  }
+  100% {
+    top: 0px;
+  }
+}
